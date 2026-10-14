@@ -59,7 +59,7 @@ The public implementation uses a leader travel-cost coefficient of **0.7**, cons
 
 ## Privacy and research-data statement
 
-Do **not** commit the original spreadsheet, geocoded addresses, raw maps, interactive HTML maps, or any export that contains exact coordinates. See `docs/DATA_AVAILABILITY.md` for a recommended journal data-availability statement and `data/README.md` for the public/private split.
+The original household-level dataset is not publicly available due to privacy and confidentiality restrictions involving residential geolocation and sensitive information associated with participation in a religious organization.
 
 ## Citation
 
